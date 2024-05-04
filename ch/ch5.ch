@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 alwaan - الغد الاخبارية |Alghad TV |  |
-https://youtu.be/JnKCQlFEyH0/live
+https://ythls.armelin.one/channel/UCH4UNKBHSNwstan99YDoCVg.m3u8
