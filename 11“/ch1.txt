@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+Nat Geo WILD | General TV |  |
+https://youtu.be/BJ3Yv572V1A/live
