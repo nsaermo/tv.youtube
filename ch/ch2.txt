@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Alghad TV | Alghad TV |  |
-https://www.youtube.com/watch?v=et7A4YU94dk/live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714860982/ei/Vl82ZqzjGejamLAPnoGj6Ag/ip/46.60.99.180/id/et7A4YU94dk.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSZB-OLQofgAwEcBYCHVzSjoZfhxWuKohRv1cxzRIuMQCIF8eHtfSd9Q8lm3LKMR9Ch5AFfb0M-wHPRNAAacOnHJy/file/index.m3u8
