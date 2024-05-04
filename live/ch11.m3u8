@@ -1,4 +1,2 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://www.youtube.com/alghadtv/live
+#EXTINF:-1,الغد
+https://www.youtube.com/alghad_tv/live
