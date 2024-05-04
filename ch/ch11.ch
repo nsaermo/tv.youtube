@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 alghad| General TV |  |
-http://www.elahmad.com/tv/youtube.php?id=alghad_tv
+https://www.youtube.com/embed/VuYzy8IuT0Y/live
