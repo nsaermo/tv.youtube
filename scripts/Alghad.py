@@ -38,10 +38,9 @@ def grab(url):
     #print(f"{link[start : end]}")
 
 print('#EXTM3U')
-print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
+
 s = requests.Session()
-with open('../ch/Alghad.txt') as f:
+with open('https://www.youtube.com/watch?v=iw8lADqVpC8/live') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
