@@ -7,8 +7,8 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch2.m3u8
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch3.m3u8
 #EXTINF:-1,alwaan - ألوان
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch4.m3u8
-#EXTINF:-1,النهار المصرية
-https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Alghad/live
+#EXTINF:-1,الغد الأخبارية
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Alghad.live
 #EXTINF:-1,eXtra news
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch6.m3u8
 #EXTINF:-1,BeeMovies
