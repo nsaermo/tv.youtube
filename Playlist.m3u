@@ -33,6 +33,8 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/mbc2.m3u8
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/MBC-Action.m3u8
 #EXTINF:-1,الجزيرة مباشر
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/AL-JAZEERA-MUBASHER.m3u8
+#EXTINF:-1,الجزيرة
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/AL-JAZEERA.m3u8
 #EXTINF:-1,تلفزيون لبنان
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/tv-lbnaen.m3u8
 
