@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 فرانس 24 بالعربية | General TV |  |
-https://www.youtube.com/channel/UCdTyuXgmJkG_O8_75eqej-w/live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714960116/ei/lOI3ZpvELYf1i9oPi7SaqAE/ip/172.71.103.219/id/VuYzy8IuT0Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f70QwJ20LnCQC1ucbHQmmcubA-sN39m97ZVHdPvGxiVIQ4u3DEe8oMaC/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANVAdV3h50n3jJFi5SNQPrkcRveUHORz-h7JB95O3iXRAiEAjrXdCYYTKpORDplvht3eVx0mTnunqnCMiYjnCXuvu8g%3D/file/index.m3u8
