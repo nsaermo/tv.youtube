@@ -1,0 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+AL-JAZEERA-MUBASHER  | General TV |  |
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8 
