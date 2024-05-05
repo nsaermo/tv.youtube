@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 ch5.py > ../../live/Alghad/live
+python3 ch5.py > ../../live/Alghad.m3u8
 
 echo Alghad grabbed
