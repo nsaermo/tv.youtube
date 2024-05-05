@@ -1,5 +1,4 @@
-~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
-BNC | MY好玩 |  |
-https://www.youtube.com/channel/UCRzAqsmluZYk-r59pQYSa3Q/live
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://youtu.be/iw8lADqVpC8/live
