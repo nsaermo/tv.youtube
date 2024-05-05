@@ -14,20 +14,20 @@ def grab(url):
     response = s.get(url, timeout=15).text
     if '.m3u8' not in response:
         if windows:
-            print('https://www.youtube.com/watch?v=iw8lADqVpC8/live')
+            print('https://raw.githubusercontent.com/nsaermo/tv.youtube/main/assets/offlintv.m3u8')
             return
         os.system(f'wget {url} -O temp.txt')
         response = ''.join(open('temp.txt').readlines())
         if '.m3u8' not in response:
-            print('https://www.youtube.com/watch?v=iw8lADqVpC8/live')
+            print('https://raw.githubusercontent.com/nsaermo/tv.youtube/main/assets/offlintv.m3u8')
             return
-    end = response.find('.live') + 5
+    end = response.find('.m3u8') + 5
     tuner = 100
     while True:
         if 'https://' in response[end-tuner : end]:
             link = response[end-tuner : end]
             start = link.find('https://')
-            end = link.find('.live') + 5
+            end = link.find('.m3u8') + 5
             break
         else:
             tuner += 5
@@ -38,9 +38,10 @@ def grab(url):
     #print(f"{link[start : end]}")
 
 print('#EXTM3U')
-
+print('#EXT-X-VERSION:3')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 s = requests.Session()
-with open('https://www.youtube.com/watch?v=iw8lADqVpC8/live') as f:
+with open('../ch/ch39.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
