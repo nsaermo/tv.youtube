@@ -37,6 +37,8 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/AL-JAZEERA
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/AL-JAZEERA.m3u8
 #EXTINF:-1,المشهد HD 1080P
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/almashhad.m3u8
+#EXTINF:-1,العربية HD 1080P
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/alarabiya.m3u8
 #EXTINF:-1,تلفزيون لبنان
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/tv-lbnaen.m3u8
 
