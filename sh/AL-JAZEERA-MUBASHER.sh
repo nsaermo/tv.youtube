@@ -8,4 +8,4 @@ cd $(dirname $0)/scripts/
 
 python3 AL-JAZEERA-MUBASHER.py > ../../live/AL-JAZEERA-MUBASHER.m3u8
 
-echo MBC-Action grabbed
+echo AL-JAZEERA-MUBASHER grabbed
