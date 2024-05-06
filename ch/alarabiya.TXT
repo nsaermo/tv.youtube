@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 alarabiya  | General TV |  |
-https://www.youtube.com/watch?v=bCgJhh5qoog
+https://www.youtube.com/channel/UCahpxixMCwoANAftn6IxkTg/live
