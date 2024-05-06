@@ -1,4 +1,5 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715030313/ei/yfQ4Zs2RE82lybgPxYi7gAU/ip/172.183.131.64/id/vBzCtsRYtdg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vgqsknzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1OjJHMTqy_v9k4RsB9Qc4kjlre4Pf1V6p_i7Ixil9OOV6k1cGdYVj-g/vprv/1/playlist_type/DVR/initcwndbps/1686250/mh/X_/mm/44/mn/sn-vgqsknzr/ms/lva/mv/m/mvi/2/pl/15/dover/11/pacing/0/keepalive/yes/mt/1715008349/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgMSfFPV7zX4C7Bxv36NilRgVaT7MS48v3t6LQauUMoRMCIEPLMP28u-puZOqLLkZ5rOWvXRG8xI5UaqYCwbDJccc7/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgYa48KKju12_-vrWCcTRJ4BNLfykJy1OSBWbulzusFL4CIFAJh7sHDKYhqdle5GwzrjyToC81a5uNi6X9cbHU8KSG/playlist/index.m3u8
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+alwaan - ألوان | Kids TV |  |
+https://www.youtube.com/channel/UCZDkp2GfXNuvnGLZ8VvWF4Q/live
