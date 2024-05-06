@@ -1,7 +1,9 @@
+
 #EXTM3U
-#EXTM3U
-#EXTVLCOPT:http-Referer=Referer=https://on.yllalive.net/
+#EXTVLCOPT:http-referrer=https://on.yllalive.net/
 https://wsla.top/live/admin/may/13.m3u8
+
+
 
 
 
