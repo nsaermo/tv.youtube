@@ -45,6 +45,8 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Busines.m3
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/AlHadath.m3u8
 #EXTINF:-1,سكاي نيوز بالعربية HD 720P
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/SKY-NEWS-AR.m3u8
+#EXTINF:-1,TRT ARBIC HD 1080P
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/TRT-ARBIC-AR.m3u8
 #EXTINF:-1,تلفزيون لبنان
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/tv-lbnaen.m3u8
 
