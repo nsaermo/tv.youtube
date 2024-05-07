@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 iraq-news.py > ../../live/iraq-news.m3u8
+python3 almayadeen.py > ../../live/almayadeen.m3u8
 
-echo iraq-news grabbed
+echo almayadeen grabbed
