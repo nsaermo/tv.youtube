@@ -55,6 +55,8 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/alaraby.m3
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/sharqiya-news.m3u8
 #EXTINF:-1,العراقية الأخبارية 
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/iraq-news.m3u8
+#EXTINF:-1,الحرة 
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/alhurra.m3u8
 #EXTINF:-1,حلب اليوم
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Halab-Today.m3u8
 #EXTINF:-1,سوريا دراما
