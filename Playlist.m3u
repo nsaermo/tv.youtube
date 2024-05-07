@@ -63,6 +63,8 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch6.m3u8
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Halab-Today.m3u8
 #EXTINF:-1,سوريا دراما
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/syria-drama.m3u8
+#EXTINF:-1,االتلفزيون السوري
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/syriatv.m3u8
 #EXTINF:-1,تلفزيون لبنان
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/tv-lbnaen.m3u8
 
