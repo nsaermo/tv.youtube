@@ -57,6 +57,8 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/sharqiya-n
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/almayadeen.m3u8
 #EXTINF:-1,الحرة 
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/alhurra.m3u8
+#EXTINF:-1,i24NEWS
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/i24NEWS.m3u8
 #EXTINF:-1,حلب اليوم
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Halab-Today.m3u8
 #EXTINF:-1,سوريا دراما
