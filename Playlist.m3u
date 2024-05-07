@@ -49,6 +49,8 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/SKY-NEWS-A
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/TRT-ARBIC-AR.m3u8
 #EXTINF:-1,الحوار HD 1080P
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ALHIWAR.m3u8
+#EXTINF:-1,العربي HD 1080P
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/alaraby.m3u8
 #EXTINF:-1,حلب اليوم
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Halab-Today.m3u8
 #EXTINF:-1,سوريا دراما
