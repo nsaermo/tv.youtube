@@ -7,28 +7,22 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch2.m3u8
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch3.m3u8
 #EXTINF:-1,alwaan - ألوان
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch4.m3u8
-#EXTINF:-1,الغد الأخبارية
-https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Alghad.m3u8
-#EXTINF:-1,eXtra news
-https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch6.m3u8
-#EXTINF:-1,BeeMovies
-https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch7.m3u8
+#EXTINF:-1,اسرتنا
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch13.m3u8
 #EXTINF:-1, 2القاهرة والناس
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch8.m3u8
 #EXTINF:-1,RoyaNews
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch9.m3u8
-#EXTINF:-1,فرانس 24 بالعربية
-https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch10-franc24-ar.m3u8
 #EXTINF:-1,قناة بلقيس الفضائية 
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch12.m3u8
-#EXTINF:-1,اسرتنا
-https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch13.m3u8
 #EXTINF:-1,النهار
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/alnher.m3u8
 #EXTINF:-1,MBC 2
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/mbc2.m3u8
 #EXTINF:-1,MBC Action 
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/MBC-Action.m3u8
+#EXTINF:-1,BeeMovies
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch7.m3u8
 #EXTINF:-1,الجزيرة مباشر HD 1080P
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/AL-JAZEERA-MUBASHER.m3u8
 #EXTINF:-1,الجزيرة HD 1080P
@@ -59,6 +53,12 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/alhurra.m3
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/i24NEWS.m3u8
 #EXTINF:-1,العالم الأخبارية
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/alalam.m3u8
+#EXTINF:-1,الغد الأخبارية
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Alghad.m3u8
+#EXTINF:-1,فرانس 24 بالعربية
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch10-franc24-ar.m3u8
+#EXTINF:-1,eXtra news
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch6.m3u8
 #EXTINF:-1,حلب اليوم
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Halab-Today.m3u8
 #EXTINF:-1,سوريا دراما
