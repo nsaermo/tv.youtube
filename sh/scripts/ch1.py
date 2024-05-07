@@ -13,7 +13,7 @@ def grab(url):
     response = s.get(url, timeout=15).text
     if '.m3u8' not in response:
         if windows:
-            print('https://raw.githubusercontent.com/nsaermo/yt-listchannel/main/disneyxd.m3u8')
+            print('https://raw.githubusercontent.com/nsaermo/yt-listchannel/main/almashhad.m3u8')
             return
         os.system(f'wget {url} -O temp.txt')
         response = ''.join(open('temp.txt').readlines())
