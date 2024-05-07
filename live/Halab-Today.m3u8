@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4600000,CODECS="mp4a.40.2,avc1.4d4028",RESOLUTION=1920x1080
 https://ythls-v2.onrender.com/video/e_tT9nJR-Es.m3u8
 
 
