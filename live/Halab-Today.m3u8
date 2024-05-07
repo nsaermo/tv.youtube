@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=4600000,CODECS="mp4a.40.2,avc1.4d4028",RESOLUTION=1920x1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD", M.Liga De Campeones 3 720
 https://ythls-v2.onrender.com/video/e_tT9nJR-Es.m3u8
 
 
