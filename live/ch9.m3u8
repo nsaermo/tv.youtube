@@ -1,2 +1,3 @@
 #EXTM3U
-https://www.youtube.com/channel/UCsDQbVxQjBuFOa98vxRlbVQ/live
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/10266112.png" group-title="LIGA DE CAMPEONES" tvg-id="رؤيا نيوز", رؤيا نيوز
+https://ythls-v2.onrender.com/channel/UCsDQbVxQjBuFOa98vxRlbVQ.m3u8
