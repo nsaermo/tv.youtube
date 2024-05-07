@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/10266112.png" group-title="LIGA DE CAMPEONES" tvg-id="تلفزيون لبنان", تلفزيون لبنان
 #EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 
