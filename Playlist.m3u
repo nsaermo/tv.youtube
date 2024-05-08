@@ -53,6 +53,8 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/almayadeen
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/alhurra.m3u8
 #EXTINF:-1,i24NEWS
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/i24NEWS.m3u8
+#EXTINF:-1,بــي بــي ســي العــربيـة
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/BBC-arbic.m3u8
 #EXTINF:-1,العالم الأخبارية
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/alalam.m3u8
 #EXTINF:-1,الغد الأخبارية
