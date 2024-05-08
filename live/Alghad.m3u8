@@ -1,3 +1,4 @@
-#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 #EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/10266112.png" group-title="LIGA DE CAMPEONES" tvg-id="الغد الأخبارية", الغد الأخبارية
 https://cdn8.elahmad.online/tv529_www.elahmad.com_alghad_tv/tracks-v1a1/mono.m3u8?token=46fe6906c19ab3b21656e3fc8f8302c0f29fae85-65042b78c879d44a0e5291940685143e-1715179665-1715168865
