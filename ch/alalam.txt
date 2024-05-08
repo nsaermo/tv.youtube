@@ -2,4 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 العالم الأخبارية| General TV |  |
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/assets/offlintv.m3u8
 
