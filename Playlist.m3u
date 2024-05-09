@@ -75,6 +75,8 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/tv-lbnaen.
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/algded.m3u8
 #EXTINF:-1,MTV
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/mtv.m3u8
+#EXTINF:-1,LBC
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/LBC.m3u8
 #EXTINF:-1,قناة اغاني
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Aghani.m3u8
 #EXTINF:-1,قناة اربيكا
