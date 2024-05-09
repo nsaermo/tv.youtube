@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="تلفزيون لبنان.us",تلفزيون لبنان
+#EXTINF:-1 tvg-id="tv-lbnaen.us",tv-lbnaen
 #EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
