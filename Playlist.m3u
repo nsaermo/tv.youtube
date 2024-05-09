@@ -81,6 +81,10 @@ https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/LBC.m3u8
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Aghani.m3u8
 #EXTINF:-1,قناة اربيكا
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/Arabica.m3u8
+#EXTINF:-1,الوطنية التونسية الاولى
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/watnt1.m3u8
+#EXTINF:-1,الوطنية التونسية الثانية
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/watnt2.m3u8
 
 
 
