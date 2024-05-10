@@ -1,6 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/10266112.png" group-title="LIGA DE CAMPEONES" tvg-id="فرانس 24 العربية", فرانس 24 العربية
 https://new.cache-stream.workers.dev/stream/UCdTyuXgmJkG_O8_75eqej-w/live.m3u8
 
 
