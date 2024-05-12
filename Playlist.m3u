@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,كوجي
+https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/koogi-tv.m3u8
 #EXTINF:-1,طيور الجنة  - Toyor Aljanah
 https://raw.githubusercontent.com/nsaermo/NSAER.TV-channels/main/live/ch1.m3u8
 #EXTINF:-1,Tam Tam TV
